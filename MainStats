@@ -1,238 +1,5 @@
 { 
-    "Shadow Chica": {
-        "Type": "AOE",
-        "Image": "rbxassetid://140049222315013",
-        "Rarity": "Nightmare",
-        "PlacePrice": 30000,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0.3,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 500,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 30000,
-                "Range": 22,
-                "Damage": 550,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 44400,
-                "Range": 30,
-                "Damage": 600,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 50000,
-                "Range": 35,
-                "Damage": 650,
-                "Cooldown": 0.05
-            }
-        ]
-   },
-  "Withered SpringBonnie": {
-        "Type": "Single Spread",
-        "Image": "rbxassetid://115683024181819",
-        "Rarity": "Nightmare",
-        "PlacePrice": 25000,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0.3,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 10000,
-                "Cooldown": 0.3
-            },
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 25000,
-                "Cooldown": 0.35
-            },
-            {
-                "Price": 0,
-                "Range": 45,
-                "Damage": 33500,
-                "Cooldown": 0.3
-            },
-            {
-                "Price": 0,
-                "Range": 50,
-                "Damage": 35000,
-                "Cooldown": 0.25
-            }
-        ]
-   },
- "SpyderSammy": {
-        "Type": "Splash",
-        "Image": "rbxassetid://75741445639697",
-        "Rarity": "Nightmare",
-        "PlacePrice": 7000,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0.3,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 5000,
-                "Cooldown": 0.9
-            },
-            {
-                "Price": 8000,
-                "Range": 40,
-                "Damage": 10000,
-                "Cooldown": 0.8
-            },
-            {
-                "Price": 9000,
-                "Range": 50,
-                "Damage": 14000,
-                "Cooldown": 0.7
-            },
-            {
-                "Price": 10000,
-                "Range": 60,
-                "Damage": 15000,
-                "Cooldown": 0.6
-            }
-        ]
-   },
-   "Golden Bonnie": {
-        "Type": "AOE",
-        "Image": "rbxassetid://92104552893897",
-        "Rarity": "Secret",
-        "PlacePrice": 10000,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0.3,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 7500,
-                "Cooldown": 1
-            },
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 8000,
-                "Cooldown": 0.9
-            },
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 9000,
-                "Cooldown": 0.8
-            },
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 10000,
-                "Cooldown": 0.8
-             }
-       ]
- },
-   "Haunted Bonnie": {
-        "Type": "AOE",
-        "Image": "rbxassetid://87712223852722",
-        "Rarity": "Nightmare",
-        "PlacePrice": 12500,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0.4,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 15000,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 7500,
-                "Range": 27,
-                "Damage": 17500,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 10000,
-                "Range": 30,
-                "Damage": 18000,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 12500,
-                "Range": 30,
-                "Damage": 20000,
-                "Cooldown": 0.5
-            }
-        ]
-    },
-   "Nightmare Creep Foxy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://116705236800776",
-        "Rarity": "Nightmare",
-        "PlacePrice": 40000,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0.3,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 50,
-                "Damage": 30000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 2000,
-                "Range": 55,
-                "Damage": 35000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 3000,
-                "Range": 60,
-                "Damage": 40000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 5000,
-                "Range": 70,
-                "Damage": 70000,
-                "Cooldown": 1
-             }
-       ]
- },
+   
  "Unreal Engine Missing Script": {
         "Type": "Continuous AOE",
         "Image": "rbxassetid://135631252087027",
@@ -268,45 +35,6 @@
                 "Range": 20,
                 "Damage": 3000,
                 "Cooldown": 0.05
-            }
-        ]
-  },
- "Dark Freddy": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://85175655670996",
-        "Rarity": "Nightmare",
-        "PlacePrice": 80000,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0.25,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 70000,
-                "Cooldown": 4
-            },
-            {
-                "Price": 35000,
-                "Range": 28,
-                "Damage": 82000,
-                "Cooldown": 3.5
-            },
-            {
-                "Price": 50000,
-                "Range": 32,
-                "Damage": 94000,
-                "Cooldown": 3
-            },
-            {
-                "Price": 70000,
-                "Range": 35,
-                "Damage": 160000,
-                "Cooldown": 2.5
             }
         ]
     },
@@ -2824,81 +2552,6 @@
             }
         ]
     },
-  "Cold As Ice Ennard": {
-        "Type": "💀 Summoner 💀",
-        "Image": "rbxassetid://87386167996478",
-        "Rarity": "Apex",
-        "PlacePrice": 1500,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 40,
-                "Damage": 6500,
-                "Cooldown": 0.5,
-                "SummonTime": 15,
-                "Health": 30000,
-                "WalkSpeed": 10,
-                "Amount": 1,
-                "Unit": "Sunken Foxy",
-                "Offset": -2,
-                "SummonRange": 30,
-                "SummonDamage": 500,
-                "SummonCooldown": 0.1
-            },
-            {
-                "Price": 300,
-                "Range": 40,
-                "Damage": 7000,
-                "Cooldown": 0.3,
-                "SummonTime": 14,
-                "Health": 45000,
-                "WalkSpeed": 10,
-                "Amount": 1,
-                "Unit": "Sunken Foxy",
-                "Offset": -2,
-                "SummonRange": 30,
-                "SummonDamage": 500,
-                "SummonCooldown": 0.1
-            },
-            {
-                "Price": 500,
-                "Range": 40,
-                "Damage": 9000,
-                "Cooldown": 0.4,
-                "SummonTime": 13,
-                "Health": 50000,
-                "WalkSpeed": 10,
-                "Amount": 1,
-                "Unit": "Sunken Foxy",
-                "Offset": -2,
-                "SummonRange": 30,
-                "SummonDamage": 500,
-                "SummonCooldown": 0.1
-            },
-            {
-                "Price": 750,
-                "Range": 40,
-                "Damage": 9500,
-                "Cooldown": 0.3,
-                "SummonTime": 12,
-                 "Health": 70000,
-                "WalkSpeed": 10,
-                "Amount": 1,
-                "Unit": "Sunken Foxy",
-                "Offset": -2,
-                "SummonRange": 30,
-                "SummonDamage": 500,
-                "SummonCooldown": 0.1
-            }
-        ]
-    },
     "Rocketeer Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://18673926504",
@@ -3077,11 +2730,11 @@
             }
         ]
     },
-    "Scott (REMOVED)": {
-        "Type": "AOE",
+    "Scott": {
+        "Type": "Splash",
         "Image": "rbxassetid://18864498819",
         "Rarity": "Secret",
-        "PlacePrice": 250000,
+        "PlacePrice": 5000,
         "Offset": 1.25,
         "Max": 1,
         "hitboxOffset": {
@@ -3093,38 +2746,38 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 100000,
+                "Damage": 1000,
                 "Cooldown": 2.5
             },
 
             {
                 "Price": 10000,
                 "Range": 28,
-                "Damage": 160000,
+                "Damage": 1600,
                 "Cooldown": 2.4
             },
             {
                 "Price": 15000,
                 "Range": 31,
-                "Damage": 220000,
+                "Damage": 2200,
                 "Cooldown": 2.3
             },
             {
                 "Price": 20000,
                 "Range": 34,
-                "Damage": 280000,
+                "Damage": 2800,
                 "Cooldown": 2.2
             },
             {
                 "Price": 25000,
                 "Range": 37,
-                "Damage": 340000,
+                "Damage": 3400,
                 "Cooldown": 2.1
             },
             {
                 "Price": 30000,
                 "Range": 45,
-                "Damage": 400000,
+                "Damage": 4000,
                 "Cooldown": 2
             }
         ]
@@ -3256,57 +2909,6 @@
                 "Range": 20,
                 "Damage": 80,
                 "Cooldown": 0.35
-            }
-        ]
-    },
-    "True Amalgam": {
-        "Type": "Single Stun (CONCEPT BY NOICE)",
-        "Image": "rbxassetid://18937271323",
-        "Rarity": "Forgotten",
-        "PlacePrice": 8000,
-        "Offset": 0,
-        "Max": 4,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50-70%"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 50000,
-                "Cooldown": 4,
-                "Slow": 0.0001
-            },
-            {
-                "Price": 1000,
-                "Range": 25,
-                "Damage": 75000,
-                "Cooldown": 4,
-                "Slow": 0.0001
-            },
-            {
-                "Price": 1400,
-                "Range": 27,
-                "Damage": 95000,
-                "Cooldown": 4,
-                "Slow": 0.0001
-            },
-            {
-                "Price": 1800,
-                "Range": 30,
-                "Damage": 100000,
-                "Cooldown": 4,
-                "Slow": 0.0001
-            },
-            {
-                "Price": 2000,
-                "Range": 32,
-                "Damage": 125000,
-                "Cooldown": 3,
-                "Slow": 0.0001
             }
         ]
     },
@@ -3699,7 +3301,7 @@
     "Flame Empress Chica": {
         "Type": "Nuke Burn",
         "Image": "rbxassetid://18971134114",
-        "Rarity": "Nightmare",
+        "Rarity": "Limited",
         "PlacePrice": 50000,
         "Offset": 0.5,
         "Max": 2,
@@ -4196,67 +3798,6 @@
                 "Range": 20,
                 "Damage": 1000,
                 "Cooldown": 0.4
-            }
-        ]
-    },
-    "Old Man Freddy": {
-        "Type": "Charge AOE Burn",
-        "Image": "rbxassetid://119409690368886",
-        "Rarity": "Nightmare",
-        "PlacePrice": 11340,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Burn", "Description": "Burns enemies"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 1000,
-                "Burn": 25,
-                "BurnTime": 2,
-                "Cooldown": 0.1,
-                "ChargeTime": 2
-            },
-            {
-                "Price": 25000,
-                "Range": 22,
-                "Damage": 1250,
-                "Burn": 25,
-                "BurnTime": 2,
-                "Cooldown": 0.1,
-                "ChargeTime": 2
-            },
-            {
-                "Price": 30000,
-                "Range": 24,
-                "Damage": 1500,
-                "Burn": 25,
-                "BurnTime": 2,
-                "Cooldown": 0.1,
-                "ChargeTime": 2
-            },
-            {
-                "Price": 35000,
-                "Range": 25,
-                "Damage": 1750,
-                "Burn": 25,
-                "BurnTime": 2,
-                "Cooldown": 0.1,
-                "ChargeTime": 2
-            } ,
-             {
-                "Price": 40000,
-                "Range": 27,
-                "Damage": 2000,
-                "Burn": 25,
-                "BurnTime": 2,
-                "Cooldown": 0.1,
-                "ChargeTime": 2
             }
         ]
     },
@@ -5890,7 +5431,7 @@
         "Type": "Nuke",
         "Image": "rbxassetid://77112261441145",
         "Rarity": "Nightmare",
-        "PlacePrice": 500000,
+        "PlacePrice": 5000,
         "Offset": 1.25,
         "Max": 1,
         "Passive": {"Name": "Recursive Volley", "Description": "Attacks strike twice"},
@@ -5903,37 +5444,37 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 400000,
+                "Damage": 4000,
                 "Cooldown": 2.5
             },
             {
                 "Price": 10000,
                 "Range": 27,
-                "Damage": 500000,
+                "Damage": 5000,
                 "Cooldown": 2.4
             },
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 650000,
+                "Damage": 6500,
                 "Cooldown": 2.3
             },
             {
                 "Price": 30000,
                 "Range": 34,
-                "Damage": 800000,
+                "Damage": 8000,
                 "Cooldown": 2.2
             },
             {
                 "Price": 40000,
                 "Range": 37,
-                "Damage": 1200000,
+                "Damage": 12000,
                 "Cooldown": 2.1
             },
             {
                 "Price": 80000,
                 "Range": 40,
-                "Damage": 1500000,
+                "Damage": 15000,
                 "Cooldown": 2
             }
         ]
@@ -6105,25 +5646,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 10000,
+                "Damage": 3250,
                 "Cooldown": 0.25
             },
             {
                 "Price": 22222,
                 "Range": 28,
-                "Damage": 12500,
+                "Damage": 3750,
                 "Cooldown": 0.25
             },
             {
                 "Price": 33333,
                 "Range": 32,
-                "Damage": 15000,
+                "Damage": 4250,
                 "Cooldown": 0.25
             },
             {
                 "Price": 44444,
                 "Range": 35,
-                "Damage": 20000,
+                "Damage": 5250,
                 "Cooldown": 0.25
             }
         ]
@@ -6283,7 +5824,7 @@
 "Eclipse Ballora": {
         "Type": "Damage + Cooldown Booster",
         "Image": "rbxassetid://87973816034102",
-        "Rarity": "Nightmare",
+        "Rarity": "Limited",
         "PlacePrice": 850,
         "Offset": 0,
         "Max": 3,
@@ -7156,140 +6697,6 @@
                 "Range": 25,
                 "Damage": 66000,
                 "Cooldown": 1.3
-            }
-        ]
-    },
-"Galaxy Freddy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://132960881595744",
-        "Rarity": "Nightmare",
-        "PlacePrice": 85000,
-        "Offset": 0,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 150000,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 800,
-                "Range": 20,
-                "Damage": 160000,
-                "Cooldown": 1.2
-            },
-            {
-                "Price": 1200,
-                "Range": 22,
-                "Damage": 180000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1500,
-                "Range": 24,
-                "Damage": 195000,
-                "Cooldown": 1
-            }
-        ]
-    },
-"Matrix Freddy": {
-        "Type": "AOE + Wither",
-        "Image": "rbxassetid://127992821871008",
-        "Rarity": "Secret",
-        "PlacePrice": 75000,
-        "Offset": 0,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 150000,
-                "Cooldown": 2
-            },
-            {
-                "Price": 600,
-                "Range": 16,
-                "Damage": 200000,
-                "Cooldown": 1.8
-            },
-            {
-                "Price": 800,
-                "Range": 17,
-                "Damage": 225000,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 1000,
-                "Range": 20,
-                "Damage": 250000,
-                "Cooldown": 1.4
-            }
-        ]
-    },
-"Glitched Freddy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://115410251423669",
-        "Rarity": "Apex",
-        "PlacePrice": 95000,
-        "Offset": 0.5,
-        "Max": 1,
-        "Passive": {"Name": "Blight", "Description": "Slows all enemies in range by 60% and reduces enemy regen by 50%"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 60000,
-                "Cooldown": 0.7,
-                "Slow": 0.40,
-                "SlowTime": 3,
-                "Bleed": 0.5,
-                "BleedTime": 3
-            },
-            {
-                "Price": 35000,
-                "Range": 28,
-                "Damage": 172000,
-                "Cooldown": 0.8,
-                "Slow": 0.40,
-                "SlowTime": 3,
-                "Bleed": 0.5,
-                "BleedTime": 3
-            },
-            {
-                "Price": 40000,
-                "Range": 31,
-                "Damage": 180000,
-                "Cooldown": 0.7,
-                "Slow": 0.40,
-                "SlowTime": 3,
-                "Bleed": 0.5,
-                "BleedTime": 3
-            },
-            {
-                "Price": 50000,
-                "Range": 35,
-                "Damage": 210000,
-                "Cooldown": 0.7,
-                "Slow": 0.40,
-                "SlowTime": 3,
-                "Bleed": 0.5,
-                "BleedTime": 3
             }
         ]
     },
@@ -8274,51 +7681,6 @@
     },
 
 
-    "Teto": {
-        "Type": "AOE",
-        "Image": "rbxassetid://122725475592106",
-        "Rarity": "Nightmare",
-        "PlacePrice": 7000,
-        "Offset": -1.75,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-                      {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 250,
-                "Cooldown": 0.05,
-                "CooldownBoost": 0.95
-            },
-            {
-                "Price": 1000,
-                "Range": 20,
-                "Damage": 300,
-                "Cooldown": 0.05,
-                "CooldownBoost": 0.9
-            },
-            {
-                "Price": 1200,
-                "Range": 20,
-                "Damage": 350,
-                "Cooldown": 0.05,
-                "CooldownBoost": 0.85
-            },
-            {
-                "Price": 1400,
-                "Range": 20,
-                "Damage": 400,
-                "Cooldown": 0.05,
-                "CooldownBoost": 0.8
-            }
-        ]
-    },
-
-
     "Geared Endo": {
         "Type": "Splash Continuous",
         "Image": "rbxassetid://89920479623802",
@@ -8759,53 +8121,6 @@
             }
         ]
     },
-    "Upgraded Witch Toy Chica": {
-        "Type": "AOE",
-        "Image": "rbxassetid://96226378459150",
-        "Rarity": "Nightmare",
-        "PlacePrice": 2600,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 9000,
-                "Burn": 250,
-                "BurnTime": 1.2,
-                "Cooldown": 2.5
-            },
-            {
-                "Price": 30000,
-                "Range": 24,
-                "Damage": 11000,
-                "Burn": 250,
-                "BurnTime": 1.2,
-                "Cooldown": 2.5
-            },
-            {
-                "Price": 35000,
-                "Range": 27,
-                "Damage": 13000,
-                "Burn": 250,
-                "BurnTime": 1.2,
-                "Cooldown": 2.5
-            },
-            {
-                "Price": 40000,
-                "Range": 30,
-                "Damage": 15000,
-                "Burn": 250,
-                "BurnTime": 1.2,
-                "Cooldown": 2.5
-            }
-        ]
-    },
     "Tarnished Fredbear": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://87312476983878",
@@ -8851,45 +8166,6 @@
                 "Bleed": 0.75,
                 "BleedTime": 2,
                 "Cooldown": 0.4
-            }
-        ]
-    },
-    "True Amalm": {
-        "Type": "Single Slow",
-        "Image": "rbxassetid://135739412167271",
-        "Rarity": "Forgotten",
-        "PlacePrice": 11000,
-        "Offset": 0,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 17,
-                "Damage": 200,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 800,
-                "Range": 19,
-                "Damage": 300,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 1000,
-                "Range": 20,
-                "Damage": 400,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 1200,
-                "Range": 22,
-                "Damage": 500,
-                "Cooldown": 0.05
             }
         ]
     },
@@ -11501,7 +10777,7 @@
     "Queen of Hearts Ballora": {
         "Type": "Pierce + Passive",
         "Image": "rbxassetid://120386866285195",
-        "Rarity": "Apex",
+        "Rarity": "Forgotten",
         "PlacePrice": 60000,
         "Offset": 0,
         "Max": 1,
@@ -14510,1757 +13786,6 @@
                 "WitherTime": 1
             }
         ]
-    },
-    "Reddy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://110287163635167",
-        "Rarity": "Secret",
-        "PlacePrice": 500,
-        "Offset": 0,
-        "Max": 69,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 28,
-                "Damage": 3000,
-                "Cooldown": 2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 32,
-                "Damage": 4000,
-                "Cooldown": 1.8,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 700,
-                "Range": 35,
-                "Damage": 5000,
-                "Cooldown": 1.6,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 800,
-                "Range": 38,
-                "Damage": 6250,
-                "Cooldown": 1.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            }
-        ]
-    },
-    "Stringed Despair": {
-        "Type": "AOE PASSIVE",
-        "Image": "rbxassetid://113066902777427",
-        "Rarity": "Vonour",
-        "PlacePrice": 50000,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 28,
-                "Damage": 80000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 32,
-                "Damage": 40000,
-                "Cooldown": 0.2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 700,
-                "Range": 35,
-                "Damage": 50000,
-                "Cooldown": 0.2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 800,
-                "Range": 38,
-                "Damage": 60000,
-                "Cooldown": 0.15,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            }
-        ]
-    },
-    "M3GAN": {
-        "Type": "Single",
-        "Image": "rbxassetid://129747551821745",
-        "Rarity": "Nightmare",
-        "PlacePrice": 50000,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 28,
-                "Damage": 30000,
-                "Cooldown": 2.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 32,
-                "Damage": 40000,
-                "Cooldown": 2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 700,
-                "Range": 35,
-                "Damage": 50000,
-                "Cooldown": 1.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 800,
-                "Range": 38,
-                "Damage": 60000,
-                "Cooldown": 1.25,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-          }
-     ]
-},
-"Red Eye Scott": {
-        "Type": "AOE",
-        "Image": "rbxassetid://80090826957278",
-        "Rarity": "Epic",
-        "PlacePrice": 5000,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 208,
-                "Damage": 300,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 302,
-                "Damage": 400,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 700,
-                "Range": 305,
-                "Damage": 500,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 800,
-                "Range": 380,
-                "Damage": 600,
-                "Cooldown": 0.25,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-          }
-     ]
-},
-"Shadow Ennard": {
-        "Type": "Decieve",
-        "Image": "rbxassetid://116213761706106",
-        "Rarity": "Nightmare",
-        "PlacePrice": 35350,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 15000,
-                "Cooldown": 5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 20000,
-                "Cooldown": 3,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 700,
-                "Range": 30,
-                "Damage": 25000,
-                "Cooldown": 2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 800,
-                "Range": 38,
-                "Damage": 30000,
-                "Cooldown": 2.15,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-           }
-      ]
-},
-"Withered Reddy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://140596729747593",
-        "Rarity": "Secret",
-        "PlacePrice": 12500,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 800,
-                "Cooldown": 0.2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 6000,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 0.2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 7000,
-                "Range": 30,
-                "Damage": 2500,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 8000,
-                "Range": 38,
-                "Damage": 3000,
-                "Cooldown": 0.3,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            }
-      ]
-},
-"Nightmare Reddy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://99382445979137",
-        "Rarity": "Apex",
-        "PlacePrice": 185000,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 80000,
-                "Cooldown": 3,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30000,
-                "Damage": 100000,
-                "Cooldown": 2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 250000,
-                "Cooldown": 1.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 300000,
-                "Cooldown": 1,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            }
-      ]
-},
-"Grim Cupcake": {
-        "Type": "AOE",
-        "Image": "rbxassetid://122742914393089",
-        "Rarity": "Epic",
-        "PlacePrice": 2100,
-        "Offset": 0,
-        "Max": 4,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 800,
-                "Cooldown": 2.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 3000,
-                "Damage": 1000,
-                "Cooldown": 2.3,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 3500,
-                "Range": 30,
-                "Damage": 2500,
-                "Cooldown": 2.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 4500,
-                "Range": 38,
-                "Damage": 3000,
-                "Cooldown": 2,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-         }
-    ]
-},
-"Shadow Launcher BB": {
-        "Type": "Nuke",
-        "Image": "rbxassetid://105824853946953",
-        "Rarity": "Mythic",
-        "PlacePrice": 8000,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 6500,
-                "Cooldown": 3,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 3000,
-                "Damage": 7500,
-                "Cooldown": 2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 3500,
-                "Range": 30,
-                "Damage": 9500,
-                "Cooldown": 1.75,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 4500,
-                "Range": 38,
-                "Damage": 10000,
-                "Cooldown": 1.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-        }
-    ]
-
-},
-"Sea Side Marionne": {
-        "Type": "AOE",
-        "Image": "rbxassetid://87825866234161",
-        "Rarity": "Forgotten",
-        "PlacePrice": 22500,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 8000,
-                "Cooldown": 3,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30000,
-                "Damage": 10000,
-                "Cooldown": 2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 25000,
-                "Cooldown": 1.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 30000,
-                "Cooldown": 1,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-              }
-           ]
-        },
-        "System Failure Cadet": {
-              "Type": "AOE",
-              "Image": "rbxassetid://104356297194309",
-              "Rarity": "Epic",
-              "PlacePrice": 20000,
-              "Offset": 0,
-              "Max": 3,
-              "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-              "NoEnemyAttack": true,
-             "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 8000,
-                "Cooldown": 8,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30000,
-                "Damage": 10000,
-                "Cooldown": 5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 25000,
-                "Cooldown": 5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 30000,
-                "Cooldown": 4,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-         }
-      ]
-    },
-    "Prototype Foxy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://125982318016441",
-        "Rarity": "Mythic",
-        "PlacePrice": 25000,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 70000,
-                "Cooldown": 15,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30000,
-                "Damage": 100000,
-                "Cooldown": 14,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 250000,
-                "Cooldown": 17,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 300000,
-                "Cooldown": 12.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-          }
-       ]
-    },
-    "True Entity Freddy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://111840860255727",
-        "Rarity": "Vonour",
-        "PlacePrice": 70000,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 80000,
-                "Cooldown": 0.75,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 25,
-                "Damage": 100000,
-                "Cooldown": 0.6,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 250000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 300000,
-                "Cooldown": 0.2,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-         }
-      ]
-    },
-    "Vampire Plushtrap": {
-        "Type": "AOE",
-        "Image": "rbxassetid://127060082291062",
-        "Rarity": "Secret",
-        "PlacePrice": 175000,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 8000,
-                "Cooldown": 0.75,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 25,
-                "Damage": 10000,
-                "Cooldown": 0.6,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 25000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 30000,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-          }
-      ]
-    },
-    "Shadow Man": {
-        "Type": "AOE",
-        "Image": "rbxassetid://77430004515513",
-        "Rarity": "Mythic",
-        "PlacePrice": 7000,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 800,
-                "Cooldown": 0.75,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 25,
-                "Damage": 1000,
-                "Cooldown": 0.6,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 2500,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 3000,
-                "Cooldown": 0.4,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-        }
-       ]
-    },
-    "Los Bombinitos": {
-        "Type": "AOE",
-        "Image": "rbxassetid://98590324442931",
-        "Rarity": "Nightmare",
-        "PlacePrice": 50000,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 5000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 25,
-                "Damage": 7500,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 12500,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 15000,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-         }
-      ]
-    },
-    "Scary Foxy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://119716362724322",
-        "Rarity": "Rare",
-        "PlacePrice": 700,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 800,
-                "Cooldown": 1.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 25,
-                "Damage": 1000,
-                "Cooldown": 1.4,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 1500,
-                "Cooldown": 1.3,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 1700,
-                "Cooldown": 1.2,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-          }
-      ]
-    },
-"Karkerkar Kurkur": {
-        "Type": "AOE",
-        "Image": "",
-        "Rarity": "Nightmare",
-        "PlacePrice": 55000,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 20000,
-                "Cooldown": 0.75,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 30000,
-                "Cooldown": 0.6,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 25000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 30000,
-                "Cooldown": 0.2,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-          }
-      ]
-    },
-"Centralucci": {
-        "Type": "AOE",
-        "Image": "rbxassetid://130054018933146",
-        "Rarity": "Secret",
-        "PlacePrice": 800,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 800,
-                "Cooldown": 0.75,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 1200,
-                "Cooldown": 0.6,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 1500,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 1800,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-          }
-      ]
-    },
-"Nuclearo": {
-        "Type": "AOE",
-        "Image": "rbxassetid://72207682408636",
-        "Rarity": "Nightmare",
-        "PlacePrice": 25000,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 8000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 12000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 15000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 18000,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-          }
-      ]
-    },
-"Elefantino": {
-        "Type": "AOE",
-        "Image": "rbxassetid://108745889865791",
-        "Rarity": "Secret",
-        "PlacePrice": 1250,
-        "Offset": 0,
-        "Max": 4,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 0.75,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 1500,
-                "Cooldown": 0.6,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 1800,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 2100,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-          }
-      ]
-    },
-"Orca": {
-        "Type": "AOE",
-        "Image": "rbxassetid://128426746078183",
-        "Rarity": "Nightmare",
-        "PlacePrice": 12500,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 3000,
-                "Cooldown": 0.75,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 5500,
-                "Cooldown": 0.6,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 7800,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 1100,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-          }
-      ]
-    },
-"Orcalero Orcala": {
-        "Type": "AOE",
-        "Image": "rbxassetid://125244060931620",
-        "Rarity": "Apex",
-        "PlacePrice": 72000,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 10000,
-                "Cooldown": 0.6,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 15000,
-                "Cooldown": 0.55,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 18000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 21000,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-          }
-      ]
-    },
-"Los Tralaleritos": {
-        "Type": "AOE",
-        "Image": "rbxassetid://136347643436412",
-        "Rarity": "Nightmare",
-        "PlacePrice": 32500,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 10000,
-                "Cooldown": 0.75,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30000,
-                "Damage": 15000,
-                "Cooldown": 0.6,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 18000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 30000,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-}
-      ]
-    },
-"Shadow Mangle": {
-        "Type": "AOE",
-        "Image": "rbxassetid://107257297548405",
-        "Rarity": "Nightmare",
-        "PlacePrice": 82500,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 10000,
-                "Cooldown": 0.65,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 25,
-                "Damage": 15000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 30000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 30000,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-}
-      ]
-    },
-"Nuclear Bonnie": {
-        "Type": "Continous Slow",
-        "Image": "rbxassetid://83176054298661",
-        "Rarity": "Apex",
-        "PlacePrice": 52500,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 2000,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 3000,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 4000,
-                "Cooldown": 0.2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 5000,
-                "Cooldown": 0.2,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-               }
-         ]
-    },
-"Shadow Puppeteer": {
-        "Type": "Continous Slow",
-        "Image": "rbxassetid://123515540413743",
-        "Rarity": "Apex",
-        "PlacePrice": 52500,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 2000,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 3000,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 4000,
-                "Cooldown": 0.2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 5000,
-                "Cooldown": 0.2,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-               }
-         ]
-    },
-"Supreme Mangle": {
-        "Type": "Continous",
-        "Image": "rbxassetid://83214640270561",
-        "Rarity": "Nightmare",
-        "PlacePrice": 12500,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 500,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 1250,
-                "Cooldown": 0.2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 1500,
-                "Cooldown": 0.2,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-               }
-         ]
-    },
-"Bloodwrath Foxy": {
-        "Type": "Continous",
-        "Image": "rbxassetid://116623940842287",
-        "Rarity": "Apex",
-        "PlacePrice": 72500,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 3000,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 4000,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 5000,
-                "Cooldown": 0.2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 6000,
-                "Cooldown": 0.2,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-               }
-         ]
-    },
-"Horror Ennard": {
-        "Type": "AOE",
-        "Image": "rbxassetid://96070611060539",
-        "Rarity": "Apex",
-        "PlacePrice": 66666,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 4500,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 5000,
-                "Cooldown": 0.25,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 30,
-                "Damage": 6000,
-                "Cooldown": 0.2,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 45000,
-                "Range": 38,
-                "Damage": 13000,
-                "Cooldown": 0.2,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-               }
-         ]
-    },
-"Gilded Soul": {
-        "Type": "AOE",
-        "Image": "rbxassetid://134186126684556",
-        "Rarity": "Nightmare",
-        "PlacePrice": 500,
-        "Offset": 0,
-        "Max": 4,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 405,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 500,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 3500,
-                "Range": 30,
-                "Damage": 600,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 4500,
-                "Range": 38,
-                "Damage": 1300,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-               }
-         ]
-    },
-"Jack O Freddy": {
-        "Type": "AOE",
-        "Image": "rbxassetid://124766015633943",
-        "Rarity": "Uncommon",
-        "PlacePrice": 350,
-        "Offset": 0,
-        "Max": 5,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 45,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 50,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 3500,
-                "Range": 30,
-                "Damage": 60,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 4500,
-                "Range": 38,
-                "Damage": 130,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-
-  }
-         ]
-    },
-"Hallow Knight": {
-        "Type": "AOE",
-        "Image": "rbxassetid://77261907750493",
-        "Rarity": "Nightmare",
-        "PlacePrice": 23500,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 4005,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 600,
-                "Range": 30,
-                "Damage": 5000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 3500,
-                "Range": 30,
-                "Damage": 6000,
-                "Cooldown": 0.5,
-                "Wither": 1.2,
-                "ShinyWither": 1.3,
-                "WitherTime": 1
-            },
-            {
-                "Price": 4500,
-                "Range": 38,
-                "Damage": 7500,
-                "Cooldown": 0.5,
-                "Wither": 5,
-                "ShinyWither": 1.3,
-                "WitherTime": 1          }
-        ]
-    }
 },
 "Ignited Chica": {
         "Type": "Single",
@@ -16298,6 +13823,283 @@
                 "Range": 45,
                 "Damage": 380,
                 "Cooldown": 1
+            }
+        ]
+},
+"Ignited Foxy": {
+        "Type": "Melee",
+        "Image": "rbxassetid://91267773456001",
+        "Rarity": "Mythic",
+        "PlacePrice": 7000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 1200,
+                "Cooldown": 0.9,
+            },
+            {
+                "Price": 8000,
+                "Range": 19,
+                "Damage": 1600,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 8600,
+                "Range": 22,
+                "Damage": 1850,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 9000,
+                "Range": 25,
+                "Damage": 2300,
+                "Cooldown": 0.7
+            }
+        ]
+},
+"Ignited Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://72870136204128",
+        "Rarity": "Secret",
+        "PlacePrice": 20000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 0.05,
+            },
+            {
+                "Price": 22000,
+                "Range": 28,
+                "Damage": 300,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 400,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 500,
+                "Cooldown": 0.05
+            }
+        ]
+},
+"Ignited Springtrap": {
+        "Type": "Splash",
+        "Image": "rbxassetid://127515296069430",
+        "Rarity": "Nightmare",
+        "PlacePrice": 35000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 32,
+                "Damage": 9000,
+                "Cooldown": 0.9,
+            },
+            {
+                "Price": 38000,
+                "Range": 36,
+                "Damage": 10500,
+                "Cooldown": 0.8,
+            },
+            {
+                "Price": 40000,
+                "Range": 38,
+                "Damage": 12000,
+                "Cooldown": 0.7,
+            },
+            {
+                "Price": 42000,
+                "Range": 40,
+                "Damage": 13000,
+                "Cooldown": 0.5,
+            }
+        ]
+},
+"W-Bot": {
+        "Type": "AOE",
+        "Image": "rbxassetid://89579162706604",
+        "Rarity": "Limited",
+        "PlacePrice": 50000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 12000,
+                "Cooldown": 0.5,
+            },
+            {
+                "Price": 55000,
+                "Range": 38,
+                "Damage": 15000,
+                "Cooldown": 0.8,
+            },
+            {
+                "Price": 58000,
+                "Range": 42,
+                "Damage": 17000,
+                "Cooldown": 0.5,
+            },
+            {
+                "Price": 58000,
+                "Range": 45,
+                "Damage": 21000,
+                "Cooldown": 0.4,
+            }
+        ]
+},
+"M-Bot": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://79847029417201",
+        "Rarity": "Limited",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1100,
+                "Cooldown": 1,
+            },
+            {
+                "Price": 850,
+                "Range": 17,
+                "Damage": 1300,
+                "Cooldown": 0.9,
+            },
+            {
+                "Price": 1600,
+                "Range": 20,
+                "Damage": 1600,
+                "Cooldown": 0.9,
+            },
+            {
+                "Price": 1000,
+                "Range": 23,
+                "Damage": 1800,
+                "Cooldown": 0.86,
+            }
+        ]
+},
+"M-Bot": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://79847029417201",
+        "Rarity": "Limited",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1100,
+                "Cooldown": 1,
+            },
+            {
+                "Price": 850,
+                "Range": 17,
+                "Damage": 1300,
+                "Cooldown": 0.9,
+            },
+            {
+                "Price": 1600,
+                "Range": 20,
+                "Damage": 1600,
+                "Cooldown": 0.9,
+            },
+            {
+                "Price": 1000,
+                "Range": 23,
+                "Damage": 1800,
+                "Cooldown": 0.86,
+            }
+        ]
+ },
+    "H-Bot": {
+        "Type": "Endo",
+        "Image": "rbxassetid://17851638702",
+        "Rarity": "Limited",
+        "PlacePrice": 2000,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 2100,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.3
+            },
+            {
+                "Price": 2300,
+                "Range": 17,
+                "Damage": 30,
+                "Cooldown": 1,
+                "DamageBoost": 1.5
+            },
+            {
+                "Price": 2500,
+                "Range": 19,
+                "Damage": 40,
+                "Cooldown": 1,
+                "DamageBoost": 1.65
+            },
+            {
+                "Price": 2700,
+                "Range": 23,
+                "Damage": 50,
+                "Cooldown": 1,
+                "DamageBoost": 1.85
             }
         ]
 }
