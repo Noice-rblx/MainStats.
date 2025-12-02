@@ -1,43 +1,4 @@
 { 
-   
- "Unreal Engine Missing Script": {
-        "Type": "Continuous AOE",
-        "Image": "rbxassetid://135631252087027",
-        "Rarity": "Nightmare",
-        "PlacePrice": 5000,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1400,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 10000,
-                "Range": 15,
-                "Damage": 1800,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 15000,
-                "Range": 20,
-                "Damage": 2500,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 25000,
-                "Range": 20,
-                "Damage": 3000,
-                "Cooldown": 0.05
-            }
-        ]
-    },
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
