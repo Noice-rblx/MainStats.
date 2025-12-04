@@ -346,7 +346,7 @@
             }
         ]
     },
- "Toy Freddy": {
+    "Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16781095520",
         "Rarity": "Rare",
@@ -539,7 +539,7 @@
             }
         ]
     },
-  "Balloon Boy": {
+    "Balloon Boy": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781077553",
         "Rarity": "Mythic",
@@ -708,9 +708,9 @@
         ]
     },
     "Endo": {
-        "Type": "Endo",
+        "Type": "Support",
         "Image": "rbxassetid://17851638702",
-        "Rarity": "Uncommon",
+        "Rarity": "Secret",
         "PlacePrice": 50,
         "NoEnemyAttack": true,
         "Max": 2,
@@ -750,50 +750,7 @@
             }
         ]
     },
-    "Hammy": {
-        "Type": "HAMMY",
-        "Image": "rbxassetid://96436895383853",
-        "Rarity": "Forgotten",
-        "PlacePrice": 1000,
-        "NoEnemyAttack": true,
-        "Max": 5,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 20,
-                "Range": 150,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 500.5
-            },
-            {
-                "Price": 1700,
-                "Range": 150,
-                "Damage": 30,
-                "Cooldown": 1,
-                "DamageBoost": 650.8
-            },
-            {
-                "Price": 2200,
-                "Range": 150,
-                "Damage": 40,
-                "Cooldown": 1,
-                "DamageBoost": 750.9
-            },
-            {
-                "Price": 2500,
-                "Range": 150,
-                "Damage": 50,
-                "Cooldown": 1,
-                "DamageBoost": 1000.5
-            }
-        ]
-    },
-   "Endo 02": {
+    "Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://17690383931",
         "Rarity": "Secret",
@@ -961,7 +918,7 @@
             }
         ]
     },
- "Marionette's Puppeteer": {
+    "Marionette's Puppeteer": {
         "Type": "AOE",
         "Image": "rbxassetid://18151575297",
         "Rarity": "Nightmare",
@@ -2834,7 +2791,7 @@
             }
         ]
     },
-"Glitched CupCake": {
+    "Glitched CupCake": {
         "Type": "AOE",
         "Image": "rbxassetid://18888327109",
         "Rarity": "Epic",
@@ -3091,28 +3048,28 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 10,
+                "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.1
             },
             {
                 "Price": 800,
                 "Range": 20,
-                "Damage": 10,
+                "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.15
             },
             {
                 "Price": 1000,
                 "Range": 20,
-                "Damage": 10,
+                "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.2
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 10,
+                "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.3
             }
@@ -3762,7 +3719,6 @@
             }
         ]
     },
-
     "Purple Guy": {
         "Type": "Turret Spawner",
         "Image": "rbxassetid://74846136473322",
@@ -3815,8 +3771,7 @@
             }
         ]
     },
-
-   "Master Puppeteer": {
+    "Master Puppeteer": {
         "Type": "Continuous Pierce",
         "Image": "rbxassetid://139994062140962",
         "Rarity": "Nightmare",
@@ -3856,7 +3811,7 @@
             }
         ]
     },
-"Tuned Mangle": {
+    "Tuned Mangle": {
         "Type": "Splash",
         "Image": "rbxassetid://139180573868562",
         "Rarity": "Secret",
@@ -4485,7 +4440,6 @@
             }
         ]
     },
-
     "Jackpot Freddy": {
         "Type": "Splash Farm",
         "Image": "rbxassetid://108467505723572",
@@ -4655,8 +4609,7 @@
             }
         ]
     },
-
-        "Astral Bonnie": {
+    "Astral Bonnie": {
             "Type": "AOE",
             "Image": "rbxassetid://128604882971057",
             "Rarity": "Vonour",
@@ -4704,8 +4657,7 @@
                 }
             ]
         },
-
-"Phone Guy": {
+    "Phone Guy": {
         "Type": "AOE DMG + Slow",
         "Image": "rbxassetid://138275060327175",
         "Rarity": "Secret",
@@ -4757,8 +4709,7 @@
             }
         ]
     },
-
-"Reactor Freddy": {
+    "Reactor Freddy": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://77248304349602",
         "Rarity": "Nightmare",
@@ -4814,11 +4765,7 @@
             }
         ]
     },
-
-
-
-
-"Deadeye Freddy": {
+    "Deadeye Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://139393570539370",
         "Rarity": "Nightmare",
@@ -4863,8 +4810,7 @@
         }
         ]
     },
-
-"Ennard": {
+    "Ennard": {
         "Type": "Chain Shock",
         "Image": "rbxassetid://82456156246566",
         "Rarity": "Vonour",
@@ -4913,8 +4859,7 @@
             }
         ]
     },
-
-"Circus Baby": {
+    "Circus Baby": {
         "Type": "Splash Stun",
         "Image": "rbxassetid://109411645448750",
         "Rarity": "Nightmare",
@@ -4961,7 +4906,7 @@
             }
         ]
     },
-"Ballora": {
+    "Ballora": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://96561789964833",
         "Rarity": "Secret",
@@ -5005,7 +4950,7 @@
             }
         ]
     },
-"Funtime Foxy": {
+    "Funtime Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://130210196007742",
         "Rarity": "Epic",
@@ -5044,7 +4989,7 @@
             }
         ]
     },
-"Funtime Freddy": {
+    "Funtime Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://113691386593768",
         "Rarity": "Mythic",
@@ -5083,8 +5028,7 @@
             }
         ]
     },
-
-"Mendo": {
+    "Mendo": {
         "Type": "Trap Layer",
         "Image": "rbxassetid://117153987968201",
         "Rarity": "Secret",
@@ -5125,7 +5069,7 @@
             }
         ]
     },
-"Lolbit": {
+    "Lolbit": {
         "Type": "Cone Aoe Stun",
         "Image": "rbxassetid://123600440160662",
         "Rarity": "Secret",
@@ -5211,7 +5155,7 @@
             }
         ]
     },
-"Music Man": {
+    "Music Man": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://77906930997624",
         "Rarity": "Nightmare",
@@ -5255,7 +5199,7 @@
             }
         ]
     },
-"Bonnet": {
+    "Bonnet": {
         "Type": "Splash",
         "Image": "rbxassetid://110847799109792",
         "Rarity": "Epic",
@@ -5294,7 +5238,7 @@
             }
         ]
     },
-"Elizabeth": {
+    "Elizabeth": {
         "Type": "Splash Slow",
         "Image": "rbxassetid://102659257102214",
         "Rarity": "Secret",
@@ -5338,8 +5282,7 @@
             }
         ]
     },
-
-"Endo 05": {
+    "Endo 05": {
         "Type": "Nuke Stun",
         "Image": "rbxassetid://75720210105816",
         "Rarity": "Nightmare",
@@ -5387,7 +5330,6 @@
             }
         ]
     },
-
     "Animdude": {
         "Type": "Nuke",
         "Image": "rbxassetid://77112261441145",
@@ -5440,7 +5382,6 @@
             }
         ]
     },
-
     "Fortified Endo 02": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://86634335404738",
@@ -5501,7 +5442,6 @@
             }
         ]
     },
-
     "Bomber Boy": {
         "Type": "Splash",
         "Image": "rbxassetid://105906895649413",
@@ -5589,8 +5529,7 @@
             }
         ]
     },
-
-"Old Man Consequences": {
+    "Old Man Consequences": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://95479691284429",
         "Rarity": "Apex",
@@ -5630,8 +5569,7 @@
             }
         ]
     },
-
-     "Fazbear Mafia": {
+    "Fazbear Mafia": {
         "Type": "Attacking Summoner",
         "Image": "rbxassetid://131447165249179",
         "Rarity": "Secret",
@@ -5691,7 +5629,6 @@
             }
         ]
     },
-
     "Boombox Foxy": {
         "Type": "AOE Slow and Booster",
         "Image": "rbxassetid://122976176441685",
@@ -5740,7 +5677,6 @@
             }
         ]
     },
-
     "Overclocked Puppeteer": {
         "Type": "Splash",
         "Image": "rbxassetid://100495958746039",
@@ -5780,9 +5716,7 @@
             }
         ]
     },
-
-
-"Eclipse Ballora": {
+    "Eclipse Ballora": {
         "Type": "Damage + Cooldown Booster",
         "Image": "rbxassetid://87973816034102",
         "Rarity": "Limited",
@@ -5830,10 +5764,7 @@
             }
         ]
     },
-
-
-
-"Jack O Cannon": {
+    "Jack O Cannon": {
         "Type": "Splash",
         "Image": "rbxassetid://96604370427078",
         "Rarity": "Secret",
@@ -5872,10 +5803,7 @@
             }
         ]
     },
-
-
-
-"Scarecrow Foxy": {
+    "Scarecrow Foxy": {
         "Type": "Splash + Burn + Stun",
         "Image": "rbxassetid://112050273953919",
         "Rarity": "Nightmare",
@@ -5930,10 +5858,7 @@
             }
         ]
     },
-
-
-
- "Clowntrap": {
+    "Clowntrap": {
         "Type": "Splash Stun",
         "Image": "rbxassetid://98100058612651",
         "Rarity": "Secret",
@@ -5980,10 +5905,7 @@
             }
         ]
     },
-
-
-
- "Grimm Foxy": {
+    "Grimm Foxy": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://101295016610509",
         "Rarity": "Secret",
@@ -6031,10 +5953,7 @@
             }
         ]
     },
-
-
-
-"Dreadbear": {
+    "Dreadbear": {
         "Type": "AOE Burn + Stun",
         "Image": "rbxassetid://71876084991999",
         "Rarity": "Nightmare",
@@ -6090,9 +6009,7 @@
             }
         ]
     },
-
-
-"Jack O Bonnie": {
+    "Jack O Bonnie": {
         "Type": "Cone AOE Burst",
         "Image": "rbxassetid://138089489409264",
         "Rarity": "Mythic",
@@ -6143,10 +6060,7 @@
             } 
         ]
     },
-
-
-    
-"Jack O Endo": {
+    "Jack O Endo": {
         "Type": "Continuous Burn",
         "Image": "rbxassetid://140269643382452",
         "Rarity": "Secret",
@@ -6194,10 +6108,7 @@
             }
         ]
     },
-
-
-
-"Jack O Chica": {
+    "Jack O Chica": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://127828338385715",
         "Rarity": "Rare",
@@ -6245,10 +6156,7 @@
             }
         ]
     },
-
-
-
-"Pumpkin Balloon Boy": {
+    "Pumpkin Balloon Boy": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://114209077497389",
         "Rarity": "Epic",
@@ -6296,8 +6204,6 @@
             }
         ]
     },
-
-
     "Gravelord Foxy": {
         "Type": "Summon",
         "Image": "rbxassetid://76307842206911",
@@ -6348,8 +6254,7 @@
             }
         ]
     },
-
-"Haunted Golden Freddy": {
+    "Haunted Golden Freddy": {
         "Type": "AOE + WITHER",
         "Image": "rbxassetid://113183024632182",
         "Rarity": "Nightmare",
@@ -6505,7 +6410,7 @@
             }
         ]
     },
- "Cutlass Foxy": {
+    "Cutlass Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://99151054438999",
         "Rarity": "Rare",
@@ -6544,7 +6449,7 @@
             }
         ]
     },
-"Cool Toy Bonnie": {
+    "Cool Toy Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://102583887192750",
         "Rarity": "Epic",
@@ -6583,7 +6488,7 @@
             }
         ]
     },
-"Demolition Toy Chica": {
+    "Demolition Toy Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://117417835066117",
         "Rarity": "Epic",
@@ -6622,7 +6527,7 @@
             }
         ]
     },
-"Demolished Freddy": {
+    "Demolished Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://123680388350373",
         "Rarity": "Mythic",
@@ -6835,7 +6740,7 @@
             }
         ]
     },
-"Sharpshooter Puppet": {
+    "Sharpshooter Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://122218118663611",
         "Rarity": "Secret",
@@ -6954,52 +6859,6 @@
             }
         ]
     },
-    
-    "Lefty": {
-        "Type": "AOE + Summon",
-        "Image": "rbxassetid://71854603701229",
-        "Rarity": "Nightmare",
-        "PlacePrice": 10000,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Puppet", "Description": "Summons crying souls that are equal to 100x this units damage."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 550,
-                "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 20000,
-                "Range": 28,
-                "Damage": 800,
-                "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 30000,
-                "Range": 31,
-                "Damage": 950,
-                "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 40000,
-                "Range": 35,
-                "Damage": 1250,
-                "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.25
-            }
-        ]
-    },
     "Rockstar Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://115841320633400",
@@ -7078,7 +6937,6 @@
             }
         ]
     },
-
     "Rockstar Bonnie": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://134586861865689",
@@ -7118,7 +6976,6 @@
             }
         ]
     },
-
     "Rockstar Foxy": {
         "Type": "AOE + Booster",
         "Image": "rbxassetid://94327478010876",
@@ -7166,104 +7023,6 @@
             }
         ]
     },
-
-    "Helpy": {
-        "Type": "Damage + Range Booster",
-        "Image": "rbxassetid://135679216615409",
-        "Rarity": "Nightmare",
-        "PlacePrice": 800,
-        "Offset": -0.75,
-        "Max": 3,
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 10,
-                "Cooldown": 1,
-                "DamageBoost": 1.1,
-                "RangeBoost": 1.1
-            },
-            {
-                "Price": 1000,
-                "Range": 20,
-                "Damage": 10,
-                "Cooldown": 1,
-                "DamageBoost": 1.15,
-                "RangeBoost": 1.15
-            },
-            {
-                "Price": 1200,
-                "Range": 20,
-                "Damage": 10,
-                "Cooldown": 1,
-                "DamageBoost": 1.2,
-                "RangeBoost": 1.2
-            },
-            {
-                "Price": 1400,
-                "Range": 20,
-                "Damage": 10,
-                "Cooldown": 1,
-                "DamageBoost": 1.27,
-                "RangeBoost": 1.27
-            }
-        ]
-    },
-    "Molten Freddy": {
-        "Type": "Explosion Burn",
-        "Image": "rbxassetid://72496434217414",
-        "Rarity": "Secret",
-        "PlacePrice": 17500,
-        "Offset": -0.75,
-        "Max": 3,
-        "MaxChain": 5,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 4000,
-                "Cooldown": 3,
-                "Burn": 80,
-                "BurnTime": 1.2
-            },
-            {
-                "Price": 20000,
-                "Range": 23,
-                "Damage": 6000,
-                "Cooldown": 2.8,
-                "Burn": 80,
-                "BurnTime": 1.2
-            },
-            {
-                "Price": 25000,
-                "Range": 25,
-                "Damage": 7000,
-                "Cooldown": 2.6,
-                "Burn": 80,
-                "BurnTime": 1.2
-            },
-            {
-                "Price": 30000,
-                "Range": 27,
-                "Damage": 8000,
-                "Cooldown": 2.5,
-                "Burn": 80,
-                "BurnTime": 1.2
-            }
-        ]
-    },
-
     "Security Puppet": {
         "Type": "Pierce + Slow",
         "Image": "rbxassetid://85978475503613",
@@ -7311,8 +7070,6 @@
             }
         ]
     },
-    
-
     "Scrap Baby": {
         "Type": "AOE + Wither",
         "Image": "rbxassetid://96792758281792",
@@ -7365,8 +7122,6 @@
             }
         ]
     },
-
-
     "Bucket Bob": {
         "Type": "AOE + Slow",
         "Image": "rbxassetid://126581484399291",
@@ -7415,8 +7170,6 @@
             }
         ]
     },
-
-
     "Jar of Pickles": {
         "Type": "Booster + Slow",
         "Image": "rbxassetid://98177156677827",
@@ -7469,8 +7222,6 @@
             }
         ]
     },
-    
-
     "Number 1 Crate": {
         "Type": "AOE",
         "Image": "rbxassetid://75811990729586",
@@ -7510,7 +7261,6 @@
             }
         ]
     },
-
     "Scraptrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://101802698966800",
@@ -7551,7 +7301,6 @@
 
         ]
     },
-
     "Miku": {
         "Type": "AOE + Damage Boost",
         "Image": "rbxassetid://122725475592106",
@@ -7598,7 +7347,6 @@
             }
         ]
     },
-
     "Overseer Foxy": {
         "Type": "Splash Slow + Passive",
         "Image": "rbxassetid://75863350712625",
@@ -7640,8 +7388,6 @@
             }
         ]
     },
-
-
     "Geared Endo": {
         "Type": "Splash Continuous",
         "Image": "rbxassetid://89920479623802",
@@ -7681,8 +7427,6 @@
             }
         ]
     },
-
-
     "Duelist Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://127027664698206",
@@ -7723,8 +7467,6 @@
 
         ]
     },
-
-
     "Mechanical Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://116234603453447",
@@ -7765,7 +7507,6 @@
         ]
 
     },
-
     "Brawler Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://105737871914622",
@@ -7805,7 +7546,6 @@
             }
         ]
     },
-
     "Steampunk Mangle": {
         "Type": "Splash",
         "Image": "rbxassetid://79766987241564",
@@ -7845,7 +7585,6 @@
             }
         ]
     },
-
     "Diver Endo": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://123144805229790",
@@ -7895,7 +7634,6 @@
         
         ]
     },
-
     "Mechanic Afton": {
         "Type": "Cone AOE + Summon",
         "Image": "rbxassetid://130168982034034",
@@ -7948,7 +7686,6 @@
             }
         ]
     },
-
     "Kronos Endo Freddy": {
         "Type": "Nuke Stun + Passive",
         "Image": "rbxassetid://138634254895239",
@@ -7996,8 +7733,7 @@
                 "SlowTime": 1
             }
         ]
-    },
-    
+    },   
     "Windup Bonnie": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://95407534025882",
@@ -8210,7 +7946,7 @@
             }
         ]
     },
-"Freddy Frostbear": {
+    "Freddy Frostbear": {
         "Type": "Pierce Slow + Passive",
         "Image": "rbxassetid://130800122285848",
         "Rarity": "Secret",
@@ -8858,7 +8594,6 @@
             }
         ]
     },
-
     "Old Man Krampus": {
         "Type": "AOE Slow + Passive",
         "Image": "rbxassetid://138508234321719",
@@ -8919,7 +8654,6 @@
             }
         ]
     },
-
     "Glamrock Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://136791971118007",
@@ -8998,7 +8732,6 @@
             }
         ]
     },
-
     "Roxanne Wolf": {
         "Type": "Pierce",
         "Image": "rbxassetid://130600731757622",
@@ -9038,7 +8771,6 @@
             }
         ]
     },
-
     "Montgomery Gator": {
         "Type": "Cone AOE Continuous",
         "Image": "rbxassetid://107200001609382",
@@ -9078,7 +8810,6 @@
             }
         ]
     },
-
     "Sunshine": {
         "Type": "AOE Burn",
         "Image": "rbxassetid://73088362644228",
@@ -9126,7 +8857,6 @@
             }
         ]
     },
-
     "Moondrop": {
         "Type": "AOE Stun",
         "Image": "rbxassetid://123157660320018",
@@ -9175,7 +8905,6 @@
             }
         ]
     },
-
     "DJ Music Man": {
         "Type": "Cooldown + Range Boost",
         "Image": "rbxassetid://92862090905850",
@@ -9224,7 +8953,7 @@
             }
         ]
     },
-"Exotic Butters": {
+    "Exotic Butters": {
         "Type": "AOE",
         "Image": "rbxassetid://91688843147628",
         "Rarity": "Nightmare",
@@ -10245,7 +9974,6 @@
             }
         ]
     },
-
     "Ruined Glamrock Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://85309483901437",
@@ -10459,7 +10187,6 @@
             }
         ]
     },
-
    "8-Bit OMC": {
         "Type": "AOE",
         "Image": "rbxassetid://78679487650695",
@@ -10738,7 +10465,7 @@
     "Queen of Hearts Ballora": {
         "Type": "Pierce + Passive",
         "Image": "rbxassetid://120386866285195",
-        "Rarity": "Forgotten",
+        "Rarity": "Limited",
         "PlacePrice": 60000,
         "Offset": 0,
         "Max": 1,
@@ -12492,7 +12219,7 @@
             }
         ]
     },
-        "Chicazilla": {
+    "Chicazilla": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://85789248456776",
         "Rarity": "Apex",
@@ -12532,7 +12259,7 @@
             }
         ]
     },
-        "Dino Pals": {
+    "Dino Pals": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://121830495643041",
         "Rarity": "Secret",
@@ -12572,7 +12299,7 @@
             }
         ]
     },
-        "Triceratops Chica": {
+    "Triceratops Chica": {
         "Type": "Slash",
         "Image": "rbxassetid://73945180276553",
         "Rarity": "Nightmare",
@@ -12612,7 +12339,7 @@
             }
         ]
     },
-        "Paleontologist Springbonnie": {
+    "Paleontologist Springbonnie": {
         "Type": "Splash + Booster",
         "Image": "rbxassetid://75314778427273",
         "Rarity": "Nightmare",
@@ -12657,7 +12384,7 @@
             }
         ]
     },
-        "Partytime Freddy": {
+    "Partytime Freddy": {
         "Type": "Cone AOE 40",
         "Image": "rbxassetid://117911299758586",
         "Rarity": "Epic",
@@ -12696,7 +12423,7 @@
             }
         ]
     },
-        "Dessert Funtime Foxy": {
+    "Dessert Funtime Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://70374908034183",
         "Rarity": "Mythic",
@@ -12735,7 +12462,7 @@
             }
         ]
     },
-        "Hot Air Balloon Boy": {
+    "Hot Air Balloon Boy": {
         "Type": "Splash + Burn",
         "Image": "rbxassetid://81085704927371",
         "Rarity": "Nightmare",
@@ -12783,7 +12510,7 @@
             }
         ]
     },
-        "Blimp Boy": {
+    "Blimp Boy": {
         "Type": "Nuke + Burn",
         "Image": "rbxassetid://136167482897006",
         "Rarity": "Nightmare",
@@ -13747,8 +13474,8 @@
                 "WitherTime": 1
             }
         ]
-},
-"Ignited Chica": {
+    },
+    "Ignited Chica": {
         "Type": "Single",
         "Image": "rbxassetid://97096897461871",
         "Rarity": "Epic",
@@ -13786,8 +13513,8 @@
                 "Cooldown": 1
             }
         ]
-},
-"Ignited Foxy": {
+    },
+    "Ignited Foxy": {
         "Type": "Melee",
         "Image": "rbxassetid://91267773456001",
         "Rarity": "Mythic",
@@ -13825,8 +13552,8 @@
                 "Cooldown": 0.7
             }
         ]
-},
-"Ignited Bonnie": {
+    },
+    "Ignited Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://72870136204128",
         "Rarity": "Secret",
@@ -13864,8 +13591,8 @@
                 "Cooldown": 0.05
             }
         ]
-},
-"Ignited Springtrap": {
+    },
+    "Ignited Springtrap": {
         "Type": "Splash",
         "Image": "rbxassetid://127515296069430",
         "Rarity": "Nightmare",
@@ -13901,10 +13628,11 @@
                 "Range": 40,
                 "Damage": 13000,
                 "Cooldown": 0.5,
+
             }
         ]
-},
-"W-Bot": {
+    },
+    "W-Bot": {
         "Type": "AOE",
         "Image": "rbxassetid://89579162706604",
         "Rarity": "Limited",
@@ -13942,8 +13670,8 @@
                 "Cooldown": 0.4,
             }
         ]
-},
-"M-Bot": {
+    },
+    "M-Bot": {
         "Type": "Pierce",
         "Image": "rbxassetid://79847029417201",
         "Rarity": "Limited",
@@ -13978,49 +13706,10 @@
                 "Price": 1000,
                 "Range": 23,
                 "Damage": 1800,
-                "Cooldown": 0.86,
+
             }
         ]
-},
-"M-Bot": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://79847029417201",
-        "Rarity": "Limited",
-        "PlacePrice": 600,
-        "Offset": 0,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-      "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1100,
-                "Cooldown": 1,
-            },
-            {
-                "Price": 850,
-                "Range": 17,
-                "Damage": 1300,
-                "Cooldown": 0.9,
-            },
-            {
-                "Price": 1600,
-                "Range": 20,
-                "Damage": 1600,
-                "Cooldown": 0.9,
-            },
-            {
-                "Price": 1000,
-                "Range": 23,
-                "Damage": 1800,
-                "Cooldown": 0.86,
-            }
-        ]
- },
+    },
     "H-Bot": {
         "Type": "Endo",
         "Image": "rbxassetid://130525701431803",
