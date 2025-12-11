@@ -5649,7 +5649,6 @@
                 "Damage": 0,
                 "Cooldown": 0.25,
                 "CooldownBoost": 0.97,
-                "Slow": 0.75
             },
             {
                 "Price": 100,
@@ -5657,7 +5656,6 @@
                 "Damage": 0,
                 "Cooldown": 0.25,
                 "CooldownBoost": 0.95,
-                "Slow": 0.75
             },
             {
                 "Price": 150,
@@ -5665,7 +5663,6 @@
                 "Damage": 0,
                 "Cooldown": 0.25,
                 "CooldownBoost": 0.92,
-                "Slow": 0.75
             },
             {
                 "Price": 200,
@@ -5673,7 +5670,6 @@
                 "Damage": 0,
                 "Cooldown": 0.25,
                 "CooldownBoost": 0.9,
-                "Slow": 0.75
             }
         ]
     },
@@ -5735,32 +5731,28 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
-                "DamageBoost": 1.1
+                "DamageBoost": 1.3
             },
             {
                 "Price": 1000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85,
-                "DamageBoost": 1.15
+                "DamageBoost": 1.35
             },
             {
                 "Price": 1250,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8,
-                "DamageBoost": 1.2
+                "DamageBoost": 1.4
             },
             {
                 "Price": 1500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.73,
-                "DamageBoost": 1.27
+                "DamageBoost": 1.56
             }
         ]
     },
@@ -6977,7 +6969,7 @@
         ]
     },
     "Rockstar Foxy": {
-        "Type": "AOE + Booster",
+        "Type": "AOE",
         "Image": "rbxassetid://94327478010876",
         "Rarity": "Secret",
         "PlacePrice": 15000,
@@ -6996,14 +6988,12 @@
                 "Range": 20,
                 "Damage": 100,
                 "Cooldown": 0.1,
-                "RangeBoost": 1.35
             },
             {
                 "Price": 20000,
                 "Range": 22,
                 "Damage": 150,
                 "Cooldown": 0.1,
-                "RangeBoost": 1.35
 
             },
             {
@@ -7011,15 +7001,12 @@
                 "Range": 24,
                 "Damage": 200,
                 "Cooldown": 0.1,
-                "RangeBoost": 1.35
-
             },
             {
                 "Price": 30000,
                 "Range": 25,
                 "Damage": 250,
                 "Cooldown": 0.1,
-                "RangeBoost": 1.35
             }
         ]
     },
@@ -7171,7 +7158,7 @@
         ]
     },
     "Jar of Pickles": {
-        "Type": "Booster + Slow",
+        "Type": "Booster",
         "Image": "rbxassetid://98177156677827",
         "Rarity": "Nightmare",
         "PlacePrice": 3000,
@@ -7190,8 +7177,6 @@
                 "Damage": 0,
                 "Cooldown": 2.2,
                 "RangeBoost": 1.5,
-                "Slow": 0.4,
-                "SlowTime": 5
             },
             {
                 "Price": 4000,
@@ -7199,8 +7184,6 @@
                 "Damage": 0,
                 "Cooldown": 2.2,
                 "RangeBoost": 1.6,
-                "Slow": 0.4,
-                "SlowTime": 5
             },
             {
                 "Price": 5000,
@@ -7208,8 +7191,6 @@
                 "Damage": 0,
                 "Cooldown": 2.2,
                 "RangeBoost": 1.7,
-                "Slow": 0.4,
-                "SlowTime": 5
             },
             {
                 "Price": 6000,
@@ -7217,8 +7198,6 @@
                 "Damage": 0,
                 "Cooldown": 2.2,
                 "RangeBoost": 1.8,
-                "Slow": 0.4,
-                "SlowTime": 5
             }
         ]
     },
@@ -7301,8 +7280,8 @@
 
         ]
     },
-    "Miku": {
-        "Type": "AOE + Damage Boost",
+    "Popstar Chica": {
+        "Type": "AOE",
         "Image": "rbxassetid://122725475592106",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
@@ -7320,14 +7299,12 @@
                 "Range": 35,
                 "Damage": 200,
                 "Cooldown": 0.05,
-                "DamageBoost": 1.35
             },
             {
                 "Price": 20000,
                 "Range": 40,
                 "Damage": 250,
                 "Cooldown": 0.05,
-                "DamageBoost": 1.35
 
             },
             {
@@ -7335,7 +7312,6 @@
                 "Range": 45,
                 "Damage": 300,
                 "Cooldown": 0.05,
-                "DamageBoost": 1.35
 
             },
             {
@@ -7343,7 +7319,6 @@
                 "Range": 50,
                 "Damage": 450,
                 "Cooldown": 0.05,
-                "DamageBoost": 1.35
             }
         ]
     },
@@ -8150,8 +8125,6 @@
                 "Damage": 0,
                 "Cooldown": 0.25,
                 "CooldownBoost": 0.85,
-                "Slow": 0.60,
-                "SlowTime": 1
             },
             {
                 "Price": 1400,
@@ -8159,8 +8132,6 @@
                 "Damage": 0,
                 "Cooldown": 0.25,
                 "CooldownBoost": 0.8,
-                "Slow": 0.60,
-                "SlowTime": 1
             },
             {
                 "Price": 1500,
@@ -8168,8 +8139,6 @@
                 "Damage": 0,
                 "Cooldown": 0.25,
                 "CooldownBoost": 0.75,
-                "Slow": 0.60,
-                "SlowTime": 1
             },
             {
                 "Price": 1700,
@@ -8177,8 +8146,6 @@
                 "Damage": 0,
                 "Cooldown": 0.25,
                 "CooldownBoost": 0.7,
-                "Slow": 0.60,
-                "SlowTime": 1
             }
         ]
     },
@@ -8906,7 +8873,7 @@
         ]
     },
     "DJ Music Man": {
-        "Type": "Cooldown + Range Boost",
+        "Type": "Range Boost",
         "Image": "rbxassetid://92862090905850",
         "Rarity": "Nightmare",
         "PlacePrice": 1000,
@@ -8924,7 +8891,6 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
                 "RangeBoost": 1.1
             },
             {
@@ -8932,7 +8898,6 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.82,
                 "RangeBoost": 1.17
             },
             {
@@ -8940,7 +8905,6 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.75,
                 "RangeBoost": 1.22
             },
             {
@@ -8948,7 +8912,6 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.73,
                 "RangeBoost": 1.27
             }
         ]
@@ -8999,7 +8962,7 @@
         ]
     },
     "Wet Floor Bot": {
-        "Type": "AOE + Cooldown Boost",
+        "Type": "AOE",
         "Image": "rbxassetid://127516376865863",
         "Rarity": "Secret",
         "PlacePrice": 400,
@@ -9018,28 +8981,24 @@
                 "Range": 25,
                 "Damage": 200,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
             },
             {
                 "Price": 500,
                 "Range": 25,
                 "Damage": 300,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
             },
             {
                 "Price": 600,
                 "Range": 25,
                 "Damage": 400,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
             },
             {
                 "Price": 700,
                 "Range": 25,
                 "Damage": 500,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
             }
         ]
     },
@@ -9063,28 +9022,24 @@
                 "Range": 22,
                 "Damage": 10500,
                 "Cooldown": 2,
-                "RangeBoost": 1.35
             },
             {
                 "Price": 36000,
                 "Range": 25,
                 "Damage": 13500,
                 "Cooldown": 2,
-                "RangeBoost": 1.35
             },
             {
                 "Price": 40000,
                 "Range": 27,
                 "Damage": 16500,
                 "Cooldown": 2,
-                "RangeBoost": 1.35
             },
             {
                 "Price": 44000,
                 "Range": 30,
                 "Damage": 21000,
                 "Cooldown": 2,
-                "RangeBoost": 1.35
             }
         ]
     },
@@ -9108,32 +9063,28 @@
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "CooldownBoost": 0.9,
-                "DamageBoost": 1.1
+                "CooldownBoost": 0.5
             },
             {
                 "Price": 500,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "CooldownBoost": 0.85,
-                "DamageBoost": 1.15
+                "CooldownBoost": 0.45
             },
             {
                 "Price": 600,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "CooldownBoost": 0.8,
-                "DamageBoost": 1.2
+                "CooldownBoost": 0.4
             },
             {
                 "Price": 700,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "CooldownBoost": 0.7,
-                "DamageBoost": 1.32
+                "CooldownBoost": 0.45
             }
         ]
     },
@@ -9489,7 +9440,7 @@
         ]
     },
     "Hermes Puppeteer": {
-        "Type": "Splash + Booster",
+        "Type": "Splash",
         "Image": "rbxassetid://83624388314614",
         "Passive": {"Name": "Cooldown Boost", "Description": "All units in range recieve -26% cooldown"},
         "Rarity": "Mythic",
@@ -9507,29 +9458,25 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 2500,
-                "Cooldown": 2.5,
-                "CooldownBoost": 0.9
+                "Cooldown": 2.5
             },
             {
                 "Price": 12000,
                 "Range": 22,
                 "Damage": 3000,
-                "Cooldown": 2.4,
-                "CooldownBoost": 0.85
+                "Cooldown": 2.4
             },
             {
                 "Price": 14000,
                 "Range": 24,
                 "Damage": 3500,
-                "Cooldown": 2.3,
-                "CooldownBoost": 0.8
+                "Cooldown": 2.3
             },
             {
                 "Price": 16000,
                 "Range": 25,
                 "Damage": 4000,
-                "Cooldown": 2.3,
-                "CooldownBoost": 0.74
+                "Cooldown": 2.3
             }
         ]
     },
@@ -9629,7 +9576,7 @@
         ]
     },
     "Kingtrap": {
-        "Type": "Booster + Passive",
+        "Type": "Damage Booster",
         "Image": "rbxassetid://85624068831283",
         "Rarity": "Nightmare",
         "PlacePrice": 1200,
@@ -9648,32 +9595,28 @@
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.15,
-                "MoneyBoost": 1.5
+                "DamageBoost": 1.15
             },
             {
                 "Price": 1400,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.25,
-                "MoneyBoost": 1.5
+                "DamageBoost": 1.25
             },
             {
                 "Price": 1600,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.3,
-                "MoneyBoost": 1.5
+                "DamageBoost": 1.3
             },
             {
                 "Price": 1800,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.4,
-                "MoneyBoost": 1.5
+                "DamageBoost": 1.4
             }
         ]
     },
@@ -9941,7 +9884,6 @@
                 "Range": 25,
                 "Damage": 15000,
                 "Cooldown": 2.5,
-                "RangeBoost": 1.35,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
@@ -9950,7 +9892,6 @@
                 "Range": 27,
                 "Damage": 18000,
                 "Cooldown": 2.3,
-                "RangeBoost": 1.35,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
@@ -9959,7 +9900,6 @@
                 "Range": 28,
                 "Damage": 17000,
                 "Cooldown": 2.2,
-                "RangeBoost": 1.35,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
@@ -9968,7 +9908,6 @@
                 "Range": 30,
                 "Damage": 25000,
                 "Cooldown": 2,
-                "RangeBoost": 1.35,
                 "Slow": 0.70,
                 "SlowTime": 1
             }
@@ -10359,7 +10298,7 @@
         ]
     },
     "The Princess": {
-        "Type": "Damage + Range Booster",
+        "Type": "Damage Booster",
         "Image": "rbxassetid://81703563273569",
         "Rarity": "Secret",
         "PlacePrice": 650,
@@ -10377,32 +10316,28 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.05,
-                "RangeBoost": 1.05
+                "DamageBoost": 1.05
             },
             {
                 "Price": 800,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.1,
-                "RangeBoost": 1.1
+                "DamageBoost": 1.1
             },
             {
                 "Price": 1000,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.15,
-                "RangeBoost": 1.15
+                "DamageBoost": 1.15
             },
             {
                 "Price": 1200,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.2,
-                "RangeBoost": 1.2
+                "DamageBoost": 1.2
             }
         ]
     },
@@ -10837,32 +10772,28 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
-                "DamageBoost": 1.1
+                "CooldownBoost": 0.9
             },
             {
                 "Price": 1000,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85,
-                "DamageBoost": 1.17
+                "CooldownBoost": 0.85
             },
             {
                 "Price": 1200,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8,
-                "DamageBoost": 1.25
+                "CooldownBoost": 0.8
             },
             {
                 "Price": 1400,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.75,
-                "DamageBoost": 1.32
+                "CooldownBoost": 0.75
             }
         ]
     },
@@ -10885,34 +10816,30 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 900,
-                "Cooldown": 2,
-                "RangeBoost": 1.15
+                "Cooldown": 2
             },
             {
                 "Price": 600,
                 "Range": 22,
                 "Damage": 1200,
-                "Cooldown": 1.9,
-                "RangeBoost": 1.15
+                "Cooldown": 1.9
             },
             {
                 "Price": 800,
                 "Range": 24,
                 "Damage": 1400,
-                "Cooldown": 1.75,
-                "RangeBoost": 1.15
+                "Cooldown": 1.75
             },
             {
                 "Price": 1000,
                 "Range": 25,
                 "Damage": 1700,
-                "Cooldown": 1.6,
-                "RangeBoost": 1.15
+                "Cooldown": 1.6
             }
         ]
     },
     "Cosplushtrap": {
-        "Type": "Cooldown + Range Boost",
+        "Type": "Range Booster",
         "Image": "rbxassetid://95716821507565",
         "Rarity": "Mythic",
         "PlacePrice": 1000,
@@ -10930,7 +10857,6 @@
                 "Range": 25,
                 "Damage": 1000,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
                 "RangeBoost": 1.1
             },
             {
@@ -10938,7 +10864,6 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
                 "RangeBoost": 1.1
             },
             {
@@ -10946,7 +10871,6 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
                 "RangeBoost": 1.1
             },
             {
@@ -10954,7 +10878,6 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.78,
                 "RangeBoost": 1.22
             }
         ]
@@ -11194,7 +11117,7 @@
         ]
     },
     "HandUnit": {
-        "Type": "Triple Boost",
+        "Type": "Cooldown Booster",
         "Image": "rbxassetid://132341684644708",
         "Rarity": "Secret",
         "PlacePrice": 1500,
@@ -11213,36 +11136,28 @@
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
-                "DamageBoost": 1.1,
-                "RangeBoost": 1.1
+                "CooldownBoost": 0.7
             },
             {
                 "Price": 1750,
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85,
-                "DamageBoost": 1.15,
-                "RangeBoost": 1.15
+                "CooldownBoost": 0.65
             },
             {
                 "Price": 2000,
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.82,
-                "DamageBoost": 1.17,
-                "RangeBoost": 1.17
+                "CooldownBoost": 0.6
             },
             {
                 "Price": 2500,
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8,
-                "DamageBoost": 1.2,
-                "RangeBoost": 1.2
+                "CooldownBoost": 0.55
             }
         ]
     },
@@ -12082,29 +11997,25 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1000,
-                "Cooldown": 0.25,
-                "RangeBoost": 1.1
+                "Cooldown": 0.25
             },
             {
                 "Price": 23250,
                 "Range": 24,
                 "Damage": 1200,
-                "Cooldown": 0.25,
-                "RangeBoost": 1.15
+                "Cooldown": 0.25
             },
                         {
                 "Price": 27654,
                 "Range": 28,
                 "Damage": 1500,
-                "Cooldown": 0.25,
-                "RangeBoost": 1.2
+                "Cooldown": 0.25
             },
                         {
                 "Price": 31434,
                 "Range": 30,
                 "Damage": 2000,
-                "Cooldown": 0.25,
-                "RangeBoost": 1.3
+                "Cooldown": 0.25
             }
         ]
     },
@@ -12340,7 +12251,7 @@
         ]
     },
     "Paleontologist Springbonnie": {
-        "Type": "Splash + Booster",
+        "Type": "Splash",
         "Image": "rbxassetid://75314778427273",
         "Rarity": "Nightmare",
         "PlacePrice": 30000,
@@ -12358,29 +12269,25 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 4000,
-                "Cooldown": 2,
-                "CooldownBoost": 0.85
+                "Cooldown": 2
             },
                         {
                 "Price": 36500,
                 "Range": 22,
                 "Damage": 4600,
-                "Cooldown": 2,
-                "CooldownBoost": 0.77
+                "Cooldown": 2
             },
                         {
                 "Price": 40100,
                 "Range": 23,
                 "Damage": 5400,
-                "Cooldown": 2,
-                "CooldownBoost": 0.72
+                "Cooldown": 2
             },
                         {
                 "Price": 45900,
                 "Range": 25,
                 "Damage": 6000,
-                "Cooldown": 2,
-                "CooldownBoost": 0.67
+                "Cooldown": 2
             }
         ]
     },
@@ -12579,7 +12486,6 @@
                 "Range": 28,
                 "Damage": 60000,
                 "Cooldown": 5,
-                "RangeBoost": 1.2,
                 "Mini Fossilized Puppet Turret1": {"Range": 28, "Damage": 1000, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret2": {"Range": 28, "Damage": 1000, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret3": {"Range": 28, "Damage": 1000, "Cooldown": 0.25}
@@ -12589,7 +12495,6 @@
                 "Range": 31,
                 "Damage": 70000,
                 "Cooldown": 5,
-                "RangeBoost": 1.2,
                 "Mini Fossilized Puppet Turret1": {"Range": 31, "Damage": 1400, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret2": {"Range": 31, "Damage": 1400, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret3": {"Range": 31, "Damage": 1400, "Cooldown": 0.25}
@@ -12599,7 +12504,6 @@
                 "Range": 33,
                 "Damage": 85000,
                 "Cooldown": 5,
-                "RangeBoost": 1.2,
                 "Mini Fossilized Puppet Turret1": {"Range": 33, "Damage": 1700, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret2": {"Range": 33, "Damage": 1700, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret3": {"Range": 33, "Damage": 1700, "Cooldown": 0.25}
@@ -12609,7 +12513,6 @@
                 "Range": 35,
                 "Damage": 100000,
                 "Cooldown": 5,
-                "RangeBoost": 1.2,
                 "Mini Fossilized Puppet Turret1": {"Range": 35, "Damage": 2000, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret2": {"Range": 35, "Damage": 2000, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret3": {"Range": 35, "Damage": 2000, "Cooldown": 0.25}
@@ -12793,7 +12696,7 @@
         ]
     },
     "Funtime Chica": {
-        "Type": "Cone AOE + Boost",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://103017752267035",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
@@ -13711,7 +13614,7 @@
         ]
     },
     "H-Bot": {
-        "Type": "Endo",
+        "Type": "Damage Booster",
         "Image": "rbxassetid://130525701431803",
         "Rarity": "Limited",
         "PlacePrice": 2000,
