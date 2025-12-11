@@ -5029,7 +5029,7 @@
         ]
     },
     "Mendo": {
-        "Type": "Trap Layer",
+        "Type": "Meelee",
         "Image": "rbxassetid://117153987968201",
         "Rarity": "Secret",
         "PlacePrice": 8000,
@@ -7176,28 +7176,28 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 2.2,
-                "RangeBoost": 1.5,
+                "RangeBoost": 1.5
             },
             {
                 "Price": 4000,
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 2.2,
-                "RangeBoost": 1.6,
+                "RangeBoost": 1.6
             },
             {
                 "Price": 5000,
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 2.2,
-                "RangeBoost": 1.7,
+                "RangeBoost": 1.7
             },
             {
                 "Price": 6000,
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 2.2,
-                "RangeBoost": 1.8,
+                "RangeBoost": 1.8
             }
         ]
     },
@@ -9677,7 +9677,7 @@
         ]
     },
     "Gaia Chica": {
-        "Type": "Pierce Spread + Traps",
+        "Type": "Pierce Spread",
         "Image": "rbxassetid://137838669403437",
         "Rarity": "Forgotten",
         "PlacePrice": 50000,
@@ -10980,7 +10980,7 @@
         ]
     },
     "Michael Afton": {
-        "Type": "Trapper",
+        "Type": "Splash",
         "Image": "rbxassetid://114032714827197",
         "Rarity": "Nightmare",
         "PlacePrice": 9000,
@@ -11025,7 +11025,7 @@
         ]
     },
     "Michael's Demise": {
-        "Type": "Cone AOE + True Stun",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://113159149163905",
         "Rarity": "Forgotten",
         "PlacePrice": 65000,
@@ -11042,29 +11042,25 @@
                 "Price": 0,
                 "Range": 32,
                 "Damage": 100000,
-                "Cooldown": 4,
-                "TrueStun": 1.2
+                "Cooldown": 4
             },
             {
                 "Price": 75000,
                 "Range": 35,
                 "Damage": 130000,
-                "Cooldown": 4,
-                "TrueStun": 1.2
+                "Cooldown": 4
             },
             {
                 "Price": 85000,
                 "Range": 38,
                 "Damage": 160000,
-                "Cooldown": 4,
-                "TrueStun": 1.2
+                "Cooldown": 4
             },
             {
                 "Price": 100000,
                 "Range": 42,
                 "Damage": 190000,
-                "Cooldown": 4,
-                "TrueStun": 1.2
+                "Cooldown": 4
             }
         ]
     },
@@ -13281,7 +13277,7 @@
         ]
     },
     "Mr Hippo": {
-        "Type": "Trapper + Turret",
+        "Type": "AOE",
         "Image": "rbxassetid://73851279283098",
         "Rarity": "Apex",
         "PlacePrice": 68000,
@@ -13299,29 +13295,25 @@
                 "Price": 0,
                 "Range": 30,
                 "Damage": 30000,
-                "Cooldown": 5,
-                "HippoTurret1": {"Range": 30, "Damage": 30000, "Cooldown": 5}
+                "Cooldown": 5
             },
             {
                 "Price": 75000,
                 "Range": 33,
                 "Damage": 40000,
-                "Cooldown": 5,
-                "HippoTurret1": {"Range": 33, "Damage": 40000, "Cooldown": 5}
+                "Cooldown": 5
             },
             {
                 "Price": 82000,
                 "Range": 36,
                 "Damage": 50000,
-                "Cooldown": 5,
-                "HippoTurret1": {"Range": 36, "Damage": 50000, "Cooldown": 5}
+                "Cooldown": 5
             },
             {
                 "Price": 91500,
                 "Range": 40,
                 "Damage": 60000,
-                "Cooldown": 5,
-                "HippoTurret1": {"Range": 40, "Damage": 60000, "Cooldown": 5}
+                "Cooldown": 5
             }
         ]
     },
