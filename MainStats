@@ -10398,13 +10398,13 @@
         ]
     },
     "Queen of Hearts Ballora": {
-        "Type": "Pierce + Passive",
+        "Type": "Admin Boost",
         "Image": "rbxassetid://120386866285195",
         "Rarity": "Limited",
-        "PlacePrice": 60000,
+        "PlacePrice": 100,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Joker", "Description": "The first unit on your team gets an extra placement"},
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10414,26 +10414,38 @@
             {
                 "Price": 0,
                 "Range": 28,
-                "Damage": 75000,
-                "Cooldown": 3
+                "Damage": 0,
+                "Cooldown": 3,
+                "DamageBoost": 4,
+                "RangeBoost": 4,
+                "CooldownBoost": 0.6
             },
             {
-                "Price": 65000,
+                "Price": 100,
                 "Range": 31,
-                "Damage": 90000,
+                "Damage": 0,
                 "Cooldown": 3
+                "DamageBoost": 4.5,
+                "RangeBoost": 4.5,
+                "CooldownBoost": 0.55
             },
             {
-                "Price": 70000,
+                "Price": 120,
                 "Range": 34,
-                "Damage": 105000,
-                "Cooldown": 3
+                "Damage": 0,
+                "Cooldown": 3,
+                "DamageBoost": 5,
+                "RangeBoost": 5,
+                "CooldownBoost": 0.5
             },
             {
-                "Price": 80000,
+                "Price": 140,
                 "Range": 38,
-                "Damage": 126000,
-                "Cooldown": 3
+                "Damage": 0,
+                "Cooldown": 3,
+                "DamageBoost": 5.5,
+                "RangeBoost": 5.5,
+                "CooldownBoost": 0.45
             }
         ]
     },
