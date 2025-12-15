@@ -711,7 +711,7 @@
         "Type": "Support",
         "Image": "rbxassetid://17851638702",
         "Rarity": "Secret",
-        "PlacePrice": 50,
+        "PlacePrice": 1000,
         "NoEnemyAttack": true,
         "Max": 2,
         "hitboxOffset": {
@@ -5713,7 +5713,7 @@
         ]
     },
     "Eclipse Ballora": {
-        "Type": "Damage + Cooldown Booster",
+        "Type": "Damage Booster",
         "Image": "rbxassetid://87973816034102",
         "Rarity": "Limited",
         "PlacePrice": 850,
