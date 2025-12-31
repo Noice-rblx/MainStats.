@@ -13694,7 +13694,7 @@
     },
     "Frostbite Foxy": {
         "Type": "Splash",
-        "Image": "rbxassetid://109792842217784",
+        "Image": "rbxassetid://114672692309723",
         "Rarity": "Nightmare",
         "PlacePrice": 14000,
         "Offset": 0,
@@ -13734,7 +13734,7 @@
     },
     "Overfrost Endo": {
         "Type": "Pierce",
-        "Image": "rbxassetid://93129512963223",
+        "Image": "rbxassetid://137877679350061",
         "Rarity": "Apex",
         "PlacePrice": 25000,
         "Offset": 0,
@@ -13814,7 +13814,7 @@
     },
     "Frostic Fredbear": {
         "Type": "Range Booster",
-        "Image": "rbxassetid://130525701431803",
+        "Image": "rbxassetid://109792842217784",
         "Rarity": "Secret",
         "PlacePrice": 1200,
         "NoEnemyAttack": true,
