@@ -13856,6 +13856,46 @@
             }
         ]
     },
+    "FR3d#y M2?T€Ry": {
+        "Type": "AOE",
+        "Image": "rbxassetid://79378430138300",
+        "Rarity": "Limited",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+      "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 45,
+                "Damage": 2000,
+                "Cooldown": 0.1,
+            },
+            {
+                "Price": 17000,
+                "Range": 47,
+                "Damage": 2250,
+                "Cooldown": 0.1,
+            },
+            {
+                "Price": 19000,
+                "Range": 48,
+                "Damage": 2500,
+                "Cooldown": 0.1,
+            },
+            {
+                "Price": 21000,
+                "Range": 50,
+                "Damage": 3000,
+                "Cooldown": 0.1,
+
+            }
+        ]
+    },
     "H-Bot": {
         "Type": "Damage Booster",
         "Image": "rbxassetid://130525701431803",
@@ -13898,4 +13938,5 @@
                 "DamageBoost": 1.85,
             }
         ]
+    }
 }
