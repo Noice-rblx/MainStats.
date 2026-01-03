@@ -3232,8 +3232,8 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 13000,
+                "Range": 900,
+                "Damage": 999999,
                 "Burn": 39000,
                 "BurnTime": 3,
                 "Cooldown": 2
