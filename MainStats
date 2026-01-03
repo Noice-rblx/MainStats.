@@ -5648,28 +5648,28 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.97,
+                "CooldownBoost": 0.97
             },
             {
                 "Price": 100,
                 "Range": 27,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.95,
+                "CooldownBoost": 0.95
             },
             {
                 "Price": 150,
                 "Range": 28,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.92,
+                "CooldownBoost": 0.92
             },
             {
                 "Price": 200,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.9,
+                "CooldownBoost": 0.9
             }
         ]
     },
