@@ -3233,7 +3233,7 @@
             {
                 "Price": 0,
                 "Range": 900,
-                "Damage": 999999,
+                "Damage": 13000,
                 "Burn": 39000,
                 "BurnTime": 3,
                 "Cooldown": 2
@@ -10298,7 +10298,7 @@
         ]
     },
     "The Princess": {
-        "Type": "Damage Booster",
+        "Type": "Dual Booster",
         "Image": "rbxassetid://81703563273569",
         "Rarity": "Secret",
         "PlacePrice": 650,
@@ -10316,28 +10316,32 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.05
+                "DamageBoost": 1.05,
+                "RangeBoost": 1.1
             },
             {
                 "Price": 800,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.1
+                "DamageBoost": 1.1,
+                "RangeBoost": 1.1
             },
             {
                 "Price": 1000,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.15
+                "DamageBoost": 1.15,
+                "RangeBoost": 1.15
             },
             {
                 "Price": 1200,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.2
+                "DamageBoost": 1.2,
+                "RangeBoost": 1.2
             }
         ]
     },
@@ -11118,7 +11122,7 @@
         ]
     },
     "HandUnit": {
-        "Type": "Cooldown Booster",
+        "Type": "Tripple Boost",
         "Image": "rbxassetid://132341684644708",
         "Rarity": "Secret",
         "PlacePrice": 1500,
@@ -11137,28 +11141,36 @@
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.7
+                "CooldownBoost": 0.9.
+                "DamageBoost": 1.1,
+                "RamgeBoost": 1.1
             },
             {
                 "Price": 1750,
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.65
+                "CooldownBoost": 0.85,
+                "DamageBoost": 1.15,
+                "RangeBoost": 1.15
             },
             {
                 "Price": 2000,
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.6
+                "CooldownBoost": 0.82,
+                "DamageBoost": 1.17,
+                "RangeBoost": 1.17
             },
             {
                 "Price": 2500,
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.55
+                "CooldownBoost": 0.8,
+                "DamageBoost": 1.2,
+                "RangeBoost": 1.2
             }
         ]
     },
