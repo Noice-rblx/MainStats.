@@ -13065,6 +13065,54 @@
             }
         ]
     },
+    "Ignited Freddy": {
+        "Type": "Meelee",
+        "Image": "rbxassetid://73880885588056",
+        "Rarity": "Epic",
+        "PlacePrice": 4000,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Bleed", "Description": "Attack Bleed enemies for 3 seconds."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Bleed": 1,
+                "BleedTime": 3
+            },
+            {
+                "Price": 4250,
+                "Range": 17,
+                "Damage": 1250,
+                "Cooldown": 0.9,
+                "Bleed": 1,
+                "BleedTime": 3
+            },
+            {
+                "Price": 4500,
+                "Range": 19,
+                "Damage": 1500,
+                "Cooldown": 0.8,
+                "Bleed": 1,
+                "BleedTime": 3
+            },
+            {
+                "Price": 4750,
+                "Range": 21,
+                "Damage": 1750,
+                "Cooldown": 0.75,
+                "Slow": 1,
+                "SlowTime": 3
+            }
+        ]
+    },
     "Chica's Magic Rainbow": {
         "Type": "Continous Pierce Spread",
         "Image": "rbxassetid://100362118597526",
