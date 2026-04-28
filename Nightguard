@@ -13913,57 +13913,9 @@
             }
         ]
     },
-    "Ignited Freddy": {
-        "Type": "Meelee",
-        "Image": "rbxassetid://73880885588056",
-        "Rarity": "Epic",
-        "PlacePrice": 4000,
-        "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Bleed", "Description": "Attack Bleed enemies for 3 seconds."},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Bleed": 1,
-                "BleedTime": 3
-            },
-            {
-                "Price": 4250,
-                "Range": 17,
-                "Damage": 1250,
-                "Cooldown": 0.9,
-                "Bleed": 1,
-                "BleedTime": 3
-            },
-            {
-                "Price": 4500,
-                "Range": 19,
-                "Damage": 1500,
-                "Cooldown": 0.8,
-                "Bleed": 1,
-                "BleedTime": 3
-            },
-            {
-                "Price": 4750,
-                "Range": 21,
-                "Damage": 1750,
-                "Cooldown": 0.75,
-                "Slow": 1,
-                "SlowTime": 3
-            }
-        ]
-    },
     "ignited Freddy": {
         "Type": "Meelee",
-        "Image": "rbxassetid://73880885588056",
+        "Image": "rbxassetid://135709668124989",
         "Rarity": "Epic",
         "PlacePrice": 4000,
         "Offset": 0,
@@ -14011,7 +13963,7 @@
     },
 "Ignited Bonnie": {
         "Type": "Continuous",
-        "Image": "rbxassetid://72870136204128",
+        "Image": "rbxassetid://97872745856841",
         "Rarity": "Mythic",
         "PlacePrice": 12000,
         "Offset": 0,
@@ -14089,7 +14041,7 @@
     },
 "Ignited Foxy": {
         "Type": "Slash",
-        "Image": "rbxassetid://91267773456001",
+        "Image": "rbxassetid://82166999492850",
         "Rarity": "Secret",
         "PlacePrice": 24000,
         "Offset": 0,
@@ -14128,7 +14080,7 @@
     },
 "Ignited Springtrap": {
         "Type": "Cone AOE",
-        "Image": "rbxassetid://127515296069430",
+        "Image": "rbxassetid://86778611456914",
         "Rarity": "Nightmare",
         "PlacePrice": 32000,
         "Offset": 0,
@@ -14167,7 +14119,7 @@
     },
     "Ignited Fredbear": {
         "Type": "Support",
-        "Image": "rbxassetid://110600475315214",
+        "Image": "rbxassetid://93512854196646",
         "Rarity": "Secret",
         "PlacePrice": 800,
         "Offset": 0,
