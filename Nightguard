@@ -13913,7 +13913,7 @@
             }
         ]
     },
-"Ignited Freddy": {
+    "Ignited Freddy": {
         "Type": "Meelee",
         "Image": "rbxassetid://135709668124989",
         "Rarity": "Epic",
@@ -13961,7 +13961,7 @@
             }
         ]
     },
-    "Ignited Freddy": {
+    "ignited Freddy": {
         "Type": "Meelee",
         "Image": "rbxassetid://135709668124989",
         "Rarity": "Epic",
@@ -14050,7 +14050,7 @@
     },
 "Ignited Chica": {
         "Type": "Single",
-        "Image": "rbxassetid://97096897461871",
+        "Image": "rbxassetid://82166999492850",
         "Rarity": "Rare",
         "PlacePrice": 1000,
         "Offset": 0,
